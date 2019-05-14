@@ -12,7 +12,9 @@
             "mode": "auto",
             "program": "${fileDirname}",
             "env": {},
-            "args": ["zhu.kai=te=st"]
+            // "args": ["-h"]
+            "args": ["zhu.kai=test"]
+            // "args": ["-remove","zhu.kai"]
         }
     ]
 }
